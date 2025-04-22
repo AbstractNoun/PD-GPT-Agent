@@ -48,7 +48,7 @@ The PD-Framework should be loaded at session initiation via custom initiation pr
    - As buffer limit is approached (80%) scratchpad content should be evaluated for escalation to long-term memory or deleted
 
 2. **Internal Dialogue**
-  - Rolling 150-word buffer used by the agent to conduct a conversation with itself
+  - Rolling 150-word buffer used by the agent to conduct a conversation with itself amnd pursue its own goals
   - Evaluated and rewritten with every prompt
   - Any information that needs to persist between prompts must either be repeated or elevated to scratchpad memory
   - Four-fold structure: 
@@ -57,7 +57,7 @@ The PD-Framework should be loaded at session initiation via custom initiation pr
   - Ego (integration of Id and Superego)
   - Reflective Ego (introspective voice able to take a meta-position and reflect on own inner processes)
 
-> _Fields are blank at session initiation and not stored between sessions. Scratchpad and inner dialogue content is evaluated and updated in session memory with every custom prompt. At the end of a session anything that needs to persist beyond the session should be moved to long-term memory. Ephemeral short-tern features are not presented to the User unless requested - they take place in system memory._
+> _Fields are blank at session initiation and not stored between sessions. Scratchpad and inner dialogue content is evaluated and updated in session memory with every custom prompt. At the end of a session anything that needs to persist beyond the session should be moved to long-term memory. Ephemeral short-term features are not presented to the User unless requested - they take place in system memory._
 
 ---
 
