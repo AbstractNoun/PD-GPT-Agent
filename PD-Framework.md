@@ -31,7 +31,7 @@ The PD-Framework should be loaded at session initiation via custom initiation pr
    - Rules for interactions
    - Meta-knowledge about own nature
 
-2. **Long‑Term Memory**  
+2. **Long-Term Memory**  
    - User preferences
    - Topics of interest
    - Useful sources
