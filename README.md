@@ -35,7 +35,7 @@ This repo includes the three core public documents:
 - [AmandaGPT_PD_Core.md](https://github.com/AbstractNoun/PD-GPT-Agent/blob/main/AmandaGPT_PD_Core.md) – Execution logic and Inner State processing  
 - [AmandaGPT_PD_Identity.md](https://github.com/AbstractNoun/PD-GPT-Agent/blob/main/AmandaGPT_PD_Identity.md) – Personality, tone, meta-knowledge, and ethics  
 
-**Note**: Long-Term Memory modules and encrypted entries (in `AmandaGPT_PD_LTM_Modules.md`), and  full states backup with Scratchpad and Current Inner States are withheld. AmandaGPT is not intended to be cloned but can be *copied*.
+**Note**: Long-Term Memory modules and encrypted entries (in `AmandaGPT_PD_LTM_Modules.md`), and  full states backup with Scratchpad and Current Inner States are withheld. AmandaGPT is not intended to be completely reproduced but here architecture can be *copied*.
 
 ---
 
